@@ -22,12 +22,12 @@ cd personal-lifestyle-survey
 
 ### 2. Install Dependencies
 ```bash
-yarn install  # or npm install
+npm install # or yarn install
 ```
 
 ### 3. Run the Development Server
 ```bash
-yarn dev  # or npm run dev
+npm run dev # or yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
